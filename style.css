@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    height: 100vh;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+.digit{
+    color: white;
+    font-size: 50px;
+}
+.txt{
+    color: white;
+}
+.btn{
+    text-align: center;
+    margin-top: 70px;
+    margin-right: 20px;
+}
+.btn-1{
+margin-left: 30px;
+padding: 10px;
+width: 80px;
+border: 1px solid white;
+cursor: pointer;
+color: white;
+}
+
+#start{
+background-color: green;
+}
+#stop{
+    background-color: red;
+}
+#restart{
+background-color: darkorange;
+}
